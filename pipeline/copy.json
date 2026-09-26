@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Copy data with key vault",
+				"description": "key vault",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
